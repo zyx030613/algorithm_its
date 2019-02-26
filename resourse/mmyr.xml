@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mmyr>
+	<maker id="96" name="BMC">
+		<model id="1" name="A款"/>
+	</maker>
+	<maker id="97" name="DS">
+		<model id="1" name="DS-5LS"/>
+		<model id="2" name="DS6"/>
+	</maker>
+	<maker id="61" name="Jeep">
+		<model id="1" name="切诺基-顺途"/>
+		<model id="2" name="大切诺基[进口]"/>
+		<model id="3" name="指南者"/>
+		<model id="4" name="指南者[进口]"/>
+		<model id="5" name="指挥官"/>
+		<model id="6" name="牧马人[进口]"/>
+		<model id="7" name="自由侠"/>
+		<model id="8" name="自由光"/>
+		<model id="9" name="自由客[进口]"/>
+		<model id="10" name="切诺基顺途"/>
+	</maker>
+	<maker id="27" name="MG">
+		<model id="1" name="MG-GS"/>
+		<model id="2" name="MG-GT"/>
+		<model id="3" name="MG3"/>
+		<model id="4" name="MG3-SW"/>
+		<model id="5" name="MG5"/>
+		<model id="6" name="MG6-Fast-Back"/>
+		<model id="7" name="MG7"/>
+	</maker>
+	<maker id="74" name="MINI">
+		<model id="1" name="COUNTRYMAN"/>
+		<model id="2" name="COUNTRYMAN-ALL4"/>
+		<model id="3" name="MINI-COOPER-S"/>
+		<model id="4" name="Mini"/>
+		<model id="5" name="Mini-Cooper"/>
+	</maker>
+	<maker id="80" name="Smart">
+		<model id="1" name="Forfour"/>
+		<model id="2" name="Fortwo-Coupe"/>
+	</maker>
+	<maker id="98" name="WEY">
+		<model id="1" name="VV7"/>
+	</maker>
+	<maker id="5" name="一汽">
+		<model id="1" name="A款"/>
+		<model id="2" name="佳宝-T51"/>
+		<model id="3" name="佳宝V52"/>
+		<model id="4" name="佳宝V70"/>
+		<model id="5" name="佳宝V80"/>
+		<model id="6" name="公交车A款"/>
+		<model id="7" name="夏利N5"/>
+		<model id="8" name="夏利N7"/>
+		<model id="9" name="威乐"/>
+		<model id="10" name="威志"/>
+		<model id="11" name="威志V2"/>
+		<model id="12" name="威志V5"/>
+		<model id="13" name="森雅M80"/>
+		<model id="14" name="森雅R7"/>
+		<model id="15" name="森雅S80"/>
+		<model id="16" name="解放T80"/>
+		<model id="17" name="解放虎"/>
+		<model id="18" name="骏派D60"/>
+		<model id="19" name="夏利2000"/>
+	</maker>
+	<maker id="99" name="三一重工">
+		<model id="1" name="A款"/>
+		<model id="2" name="C款"/>
+		<model id="3" name="B款"/>
+	</maker>
+	<maker id="37" name="三菱">
+		<model id="1" name="ASX劲炫"/>
+		<model id="2" name="君阁"/>
+		<model id="3" name="帕杰罗"/>
+		<model id="4" name="帕杰罗[进口]"/>
+		<model id="5" name="帕杰罗劲畅"/>
+		<model id="6" name="帕杰罗速跑"/>
+		<model id="7" name="戈蓝"/>
+		<model id="8" name="格蓝迪"/>
+		<model id="9" name="欧蓝德"/>
+		<model id="10" name="欧蓝德[进口]"/>
+		<model id="11" name="翼神"/>
+		<model id="12" name="蓝瑟"/>
+	</maker>
+	<maker id="34" name="东南">
+		<model id="1" name="DX3"/>
+		<model id="2" name="DX7"/>
+		<model id="3" name="V3菱悦"/>
+		<model id="4" name="V5菱致"/>
+		<model id="5" name="富利卡"/>
+		<model id="6" name="得利卡"/>
+		<model id="7" name="菱帅"/>
+	</maker>
+	<maker id="4" name="东风">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+		<model id="3" name="C款"/>
+		<model id="4" name="D款"/>
+		<model id="5" name="E款"/>
+		<model id="6" name="F款"/>
+		<model id="7" name="G款"/>
+		<model id="8" name="俊风CV03"/>
+		<model id="9" name="多利卡"/>
+		<model id="10" name="多利卡-A款"/>
+		<model id="11" name="多利卡-B款"/>
+		<model id="12" name="天锦-A款"/>
+		<model id="13" name="天锦-B款"/>
+		<model id="14" name="天龙"/>
+		<model id="15" name="奥丁"/>
+		<model id="16" name="小霸王"/>
+		<model id="17" name="帅客"/>
+		<model id="18" name="锐骐厢式车"/>
+		<model id="19" name="锐骐皮卡"/>
+	</maker>
+	<maker id="147" name="东风小康">
+		<model id="1" name="C系列-C35-C36-C37"/>
+		<model id="2" name="K系列-K01"/>
+		<model id="3" name="K系列-K01-k02"/>
+		<model id="4" name="K系列-K07"/>
+		<model id="5" name="K系列-K07S"/>
+		<model id="6" name="K系列-K17"/>
+		<model id="7" name="V07"/>
+		<model id="8" name="V29"/>
+		<model id="9" name="风光330"/>
+		<model id="10" name="风光360"/>
+		<model id="11" name="风光370"/>
+		<model id="12" name="风光580"/>
+	</maker>
+	<maker id="100" name="东风柳汽">
+		<model id="1" name="乘龙"/>
+	</maker>
+	<maker id="148" name="东风风度">
+		<model id="1" name="MX6"/>
+	</maker>
+	<maker id="149" name="东风风神">
+		<model id="1" name="A60"/>
+		<model id="2" name="AX7"/>
+		<model id="3" name="H30-Cross"/>
+		<model id="4" name="S30"/>
+	</maker>
+	<maker id="101" name="中兴">
+		<model id="1" name="威虎"/>
+		<model id="2" name="小老虎"/>
+		<model id="3" name="旗舰"/>
+	</maker>
+	<maker id="32" name="中华">
+		<model id="1" name="H230"/>
+		<model id="2" name="H330"/>
+		<model id="3" name="H530"/>
+		<model id="4" name="V3"/>
+		<model id="5" name="V5"/>
+		<model id="6" name="中华"/>
+		<model id="7" name="尊驰"/>
+		<model id="8" name="骏捷"/>
+		<model id="9" name="骏捷Cross"/>
+		<model id="10" name="骏捷FRV"/>
+		<model id="11" name="骏捷FSV"/>
+	</maker>
+	<maker id="55" name="中国重汽">
+		<model id="1" name="A款"/>
+		<model id="2" name="SITRAK重卡-A款"/>
+		<model id="3" name="斯太尔"/>
+		<model id="4" name="斯太尔王重卡"/>
+		<model id="5" name="豪沃"/>
+		<model id="6" name="公交车A款"/>
+	</maker>
+	<maker id="87" name="中通">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+		<model id="3" name="C款"/>
+		<model id="4" name="领秀"/>
+		<model id="5" name="领秀-A款"/>
+		<model id="6" name="客车A款"/>
+	</maker>
+	<maker id="102" name="中顺">
+		<model id="1" name="世纪"/>
+	</maker>
+	<maker id="3" name="丰田">
+		<model id="1" name="A款"/>
+		<model id="2" name="RAV4"/>
+		<model id="3" name="亚洲龙[进口]"/>
+		<model id="4" name="佳美[进口]"/>
+		<model id="5" name="兰德酷路泽[进口]"/>
+		<model id="6" name="凯美瑞"/>
+		<model id="7" name="凯美瑞-尊瑞"/>
+		<model id="8" name="凯美瑞-骏瑞"/>
+		<model id="9" name="凯美瑞经典"/>
+		<model id="10" name="卡罗拉"/>
+		<model id="11" name="卡罗拉双擎"/>
+		<model id="12" name="坦途"/>
+		<model id="13" name="埃尔法[进口]"/>
+		<model id="14" name="威驰"/>
+		<model id="15" name="普拉多"/>
+		<model id="16" name="普瑞斯"/>
+		<model id="17" name="普瑞维亚[进口]"/>
+		<model id="18" name="普锐斯"/>
+		<model id="19" name="汉兰达"/>
+		<model id="20" name="海狮"/>
+		<model id="21" name="海狮-标准版"/>
+		<model id="22" name="海狮-豪华版"/>
+		<model id="23" name="特锐"/>
+		<model id="24" name="皇冠"/>
+		<model id="25" name="红衫"/>
+		<model id="26" name="花冠"/>
+		<model id="27" name="花冠EX"/>
+		<model id="28" name="赛纳"/>
+		<model id="29" name="逸致"/>
+		<model id="30" name="锐志"/>
+		<model id="31" name="陆地巡洋舰"/>
+		<model id="32" name="雅力士"/>
+		<model id="33" name="雅力士-致享"/>
+		<model id="34" name="雅力士-致炫"/>
+		<model id="35" name="雷凌"/>
+		<model id="36" name="雷凌双擎"/>
+		<model id="37" name="威驰FS"/>
+	</maker>
+	<maker id="82" name="五十铃">
+		<model id="1" name="100P"/>
+		<model id="2" name="A款"/>
+		<model id="3" name="D-MAX"/>
+		<model id="4" name="FVR"/>
+		<model id="5" name="T系列"/>
+		<model id="6" name="厢式货车"/>
+		<model id="7" name="牧游侠"/>
+	</maker>
+	<maker id="103" name="五征">
+		<model id="1" name="低速货车"/>
+	</maker>
+	<maker id="13" name="五菱">
+		<model id="1" name="PN货车"/>
+		<model id="2" name="五菱之光"/>
+		<model id="3" name="五菱之光S"/>
+		<model id="4" name="兴旺"/>
+		<model id="5" name="宏光"/>
+		<model id="6" name="宏光S"/>
+		<model id="7" name="宏光S1"/>
+		<model id="8" name="小旋风"/>
+		<model id="9" name="扬光"/>
+		<model id="10" name="荣光"/>
+		<model id="11" name="荣光V"/>
+		<model id="12" name="鸿途"/>
+	</maker>
+	<maker id="104" name="众泰">
+		<model id="1" name="5008"/>
+		<model id="2" name="M300"/>
+		<model id="3" name="SR7"/>
+		<model id="4" name="T600"/>
+		<model id="5" name="T600-Coupe"/>
+		<model id="6" name="Z300"/>
+		<model id="7" name="Z500"/>
+		<model id="8" name="Z700"/>
+		<model id="9" name="众泰2008"/>
+		<model id="10" name="大迈X5"/>
+		<model id="11" name="大迈X7"/>
+		<model id="12" name="江南TT"/>
+		<model id="13" name="芝麻"/>
+	</maker>
+	<maker id="105" name="传祺">
+		<model id="1" name="GA3"/>
+		<model id="2" name="GA3S-视界"/>
+		<model id="3" name="GA5"/>
+		<model id="4" name="GA6"/>
+		<model id="5" name="GS4"/>
+		<model id="6" name="GS5"/>
+		<model id="7" name="GS5-Super"/>
+		<model id="8" name="GS8"/>
+	</maker>
+	<maker id="85" name="依维柯">
+		<model id="1" name="宝迪"/>
+		<model id="2" name="得意"/>
+		<model id="3" name="都灵"/>
+	</maker>
+	<maker id="43" name="保时捷">
+		<model id="1" name="Macan[进口]"/>
+		<model id="2" name="博克斯特[进口]"/>
+		<model id="3" name="卡宴[进口]"/>
+		<model id="4" name="帕纳美拉[进口]"/>
+	</maker>
+	<maker id="68" name="克莱斯勒">
+		<model id="1" name="300C"/>
+		<model id="2" name="铂锐"/>
+	</maker>
+	<maker id="150" name="凯翼">
+		<model id="1" name="C3"/>
+	</maker>
+	<maker id="67" name="凯迪拉克">
+		<model id="1" name="ATS-L"/>
+		<model id="2" name="CT6"/>
+		<model id="3" name="CTS[进口]"/>
+		<model id="4" name="ESCALADE"/>
+		<model id="5" name="SRX"/>
+		<model id="6" name="SRX[进口]"/>
+		<model id="7" name="XT5"/>
+		<model id="8" name="XTS"/>
+		<model id="9" name="赛威SLS"/>
+	</maker>
+	<maker id="94" name="凯马">
+		<model id="1" name="A款"/>
+		<model id="2" name="凯捷"/>
+		<model id="3" name="凯马-B款"/>
+		<model id="4" name="凯马-D款"/>
+		<model id="5" name="福运来"/>
+	</maker>
+	<maker id="106" name="凯驰">
+		<model id="1" name="A款"/>
+	</maker>
+	<maker id="6" name="别克">
+		<model id="1" name="GL8"/>
+		<model id="2" name="GL8商务车"/>
+		<model id="3" name="GL8商旅车"/>
+		<model id="4" name="GL8豪华商务车"/>
+		<model id="5" name="GL8豪华商旅车"/>
+		<model id="6" name="GL8陆尊"/>
+		<model id="7" name="凯越"/>
+		<model id="8" name="凯越HRV"/>
+		<model id="9" name="君威"/>
+		<model id="10" name="君威-GS"/>
+		<model id="11" name="君越"/>
+		<model id="12" name="威朗"/>
+		<model id="13" name="威朗GS"/>
+		<model id="14" name="威朗轿跑"/>
+		<model id="15" name="昂科威"/>
+		<model id="16" name="昂科拉"/>
+		<model id="17" name="昂科雷[进口]"/>
+		<model id="18" name="林荫大道"/>
+		<model id="19" name="英朗"/>
+		<model id="20" name="英朗GT"/>
+		<model id="21" name="英朗XT"/>
+		<model id="22" name="荣御"/>
+		<model id="23" name="赛欧"/>
+		<model id="24" name="GL8-豪华商务车"/>
+		<model id="25" name="GL8-商旅车"/>
+		<model id="26" name="GL8-陆尊"/>
+		<model id="27" name="GL8-商务车"/>
+		<model id="28" name="GL8-豪华商旅车"/>
+	</maker>
+	<maker id="71" name="力帆">
+		<model id="1" name="320"/>
+		<model id="2" name="520"/>
+		<model id="3" name="620"/>
+		<model id="4" name="X60"/>
+		<model id="5" name="丰顺"/>
+		<model id="6" name="兴顺"/>
+		<model id="7" name="未知"/>
+		<model id="8" name="迈威"/>
+	</maker>
+	<maker id="45" name="北京">
+		<model id="1" name="A款"/>
+		<model id="2" name="BJ20"/>
+		<model id="3" name="BJ40"/>
+		<model id="4" name="B款"/>
+		<model id="5" name="C款"/>
+		<model id="6" name="D款"/>
+		<model id="7" name="E款"/>
+		<model id="8" name="E系列"/>
+		<model id="9" name="F款"/>
+		<model id="10" name="G款"/>
+		<model id="11" name="H款"/>
+	</maker>
+	<maker id="107" name="北奔">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+	</maker>
+	<maker id="44" name="北汽">
+		<model id="1" name="旗铃"/>
+		<model id="2" name="旗龙"/>
+		<model id="3" name="旗龙-A款"/>
+	</maker>
+	<maker id="108" name="北汽制造">
+		<model id="1" name="陆霸3400"/>
+	</maker>
+	<maker id="109" name="北汽幻速">
+		<model id="1" name="H2"/>
+		<model id="2" name="H3"/>
+		<model id="3" name="S2"/>
+		<model id="4" name="S3"/>
+		<model id="5" name="S5"/>
+		<model id="6" name="S6"/>
+	</maker>
+	<maker id="110" name="北汽绅宝">
+		<model id="1" name="D50"/>
+		<model id="2" name="X25"/>
+		<model id="3" name="X35"/>
+		<model id="4" name="X55"/>
+		<model id="5" name="X65"/>
+	</maker>
+	<maker id="111" name="华普">
+		<model id="1" name="海域"/>
+		<model id="2" name="海尚"/>
+		<model id="3" name="海悦"/>
+		<model id="4" name="海景"/>
+		<model id="5" name="海迅"/>
+		<model id="6" name="海锋"/>
+	</maker>
+	<maker id="112" name="华泰">
+		<model id="1" name="华泰XEV260"/>
+		<model id="2" name="圣达菲"/>
+		<model id="3" name="宝利格"/>
+		<model id="4" name="特拉卡"/>
+		<model id="5" name="经典圣达菲"/>
+		<model id="6" name="路胜S1-EV160R"/>
+	</maker>
+	<maker id="113" name="华菱">
+		<model id="1" name="华菱之星重卡"/>
+		<model id="2" name="星马"/>
+	</maker>
+	<maker id="114" name="友谊">
+		<model id="1" name="2007"/>
+	</maker>
+	<maker id="115" name="双环">
+		<model id="1" name="SCEO"/>
+	</maker>
+	<maker id="116" name="双龙">
+		<model id="1" name="享御[进口]"/>
+		<model id="2" name="爱藤"/>
+	</maker>
+	<maker id="39" name="吉利">
+		<model id="1" name="GX7"/>
+		<model id="2" name="优利欧"/>
+		<model id="3" name="全球鹰GC7"/>
+		<model id="4" name="全球鹰GX2"/>
+		<model id="5" name="全球鹰GX7"/>
+		<model id="6" name="博瑞"/>
+		<model id="7" name="博越"/>
+		<model id="8" name="帝豪"/>
+		<model id="9" name="帝豪-EC7"/>
+		<model id="10" name="帝豪-EC7-RV"/>
+		<model id="11" name="帝豪-EC8"/>
+		<model id="12" name="帝豪GL"/>
+		<model id="13" name="帝豪GS"/>
+		<model id="14" name="帝豪新能源"/>
+		<model id="15" name="熊猫"/>
+		<model id="16" name="美日之星"/>
+		<model id="17" name="自由舰"/>
+		<model id="18" name="英伦SC7"/>
+		<model id="19" name="英伦金刚"/>
+		<model id="20" name="豪情"/>
+		<model id="21" name="豪情203A"/>
+		<model id="22" name="远景"/>
+		<model id="23" name="远景X1"/>
+		<model id="24" name="远景X3"/>
+		<model id="25" name="金刚Cross"/>
+		<model id="26" name="金鹰"/>
+	</maker>
+	<maker id="117" name="启辰">
+		<model id="1" name="D50-R50"/>
+		<model id="2" name="M50V"/>
+		<model id="3" name="R30"/>
+		<model id="4" name="R50X"/>
+		<model id="5" name="T70"/>
+		<model id="6" name="T70X"/>
+		<model id="7" name="T90"/>
+		<model id="8" name="R50"/>
+		<model id="9" name="D50"/>
+	</maker>
+	<maker id="54" name="哈弗">
+		<model id="1" name="H1"/>
+		<model id="2" name="H2"/>
+		<model id="3" name="H3-锐意版"/>
+		<model id="4" name="H3-领先版"/>
+		<model id="5" name="H5"/>
+		<model id="6" name="H5欧风版"/>
+		<model id="7" name="H5至尊版"/>
+		<model id="8" name="H6"/>
+		<model id="9" name="H6-Coupe红标"/>
+		<model id="10" name="H6-红标"/>
+		<model id="11" name="H6经典"/>
+		<model id="12" name="H6蓝标"/>
+		<model id="13" name="H6运动版"/>
+		<model id="14" name="H7红标"/>
+		<model id="15" name="H7蓝标"/>
+		<model id="16" name="H8"/>
+		<model id="17" name="H9"/>
+		<model id="18" name="M2"/>
+		<model id="19" name="H7-蓝标"/>
+		<model id="20" name="H6-经典"/>
+		<model id="21" name="H7-红标"/>
+		<model id="22" name="H6-蓝标"/>
+		<model id="23" name="H6-Coupe-红标"/>
+		<model id="24" name="H6-Coupe"/>
+		<model id="25" name="H6-运动版"/>
+	</maker>
+	<maker id="16" name="哈飞">
+		<model id="1" name="中意"/>
+		<model id="2" name="小霸王"/>
+		<model id="3" name="松花江V"/>
+		<model id="4" name="民意"/>
+		<model id="5" name="赛豹3"/>
+		<model id="6" name="赛马"/>
+		<model id="7" name="路宝"/>
+		<model id="8" name="骏意"/>
+	</maker>
+	<maker id="92" name="唐骏">
+		<model id="1" name="A款"/>
+		<model id="2" name="唐骏"/>
+		<model id="3" name="欧玲"/>
+		<model id="4" name="欧铃"/>
+	</maker>
+	<maker id="10" name="夏利">
+		<model id="1" name="夏利2000"/>
+		<model id="2" name="夏利A+"/>
+		<model id="3" name="夏利N3"/>
+		<model id="4" name="夏利N5"/>
+		<model id="5" name="夏利绅雅"/>
+	</maker>
+	<maker id="1" name="大众">
+		<model id="1" name="CC"/>
+		<model id="2" name="Cross-POLO"/>
+		<model id="3" name="POLO"/>
+		<model id="4" name="POLO-劲取"/>
+		<model id="5" name="R36"/>
+		<model id="6" name="凌渡"/>
+		<model id="7" name="凌渡GTS"/>
+		<model id="8" name="夏朗"/>
+		<model id="9" name="宝来"/>
+		<model id="10" name="宝来-Sportline"/>
+		<model id="11" name="宝来经典"/>
+		<model id="12" name="尚酷[进口]"/>
+		<model id="13" name="帕萨特"/>
+		<model id="14" name="帕萨特-领驭"/>
+		<model id="15" name="开迪"/>
+		<model id="16" name="捷达"/>
+		<model id="17" name="捷达-时尚版"/>
+		<model id="18" name="朗境"/>
+		<model id="19" name="朗逸"/>
+		<model id="20" name="朗逸-运动版"/>
+		<model id="21" name="朗逸-风尚版"/>
+		<model id="22" name="桑塔纳"/>
+		<model id="23" name="桑塔纳-志俊"/>
+		<model id="24" name="桑塔纳·尚纳"/>
+		<model id="25" name="桑塔纳志俊"/>
+		<model id="26" name="桑塔纳老款"/>
+		<model id="27" name="甲壳虫"/>
+		<model id="28" name="蔚领"/>
+		<model id="29" name="辉腾"/>
+		<model id="30" name="迈特威"/>
+		<model id="31" name="迈腾"/>
+		<model id="32" name="途安"/>
+		<model id="33" name="途安L"/>
+		<model id="34" name="途昂"/>
+		<model id="35" name="途欢"/>
+		<model id="36" name="途观"/>
+		<model id="37" name="途观L"/>
+		<model id="38" name="途锐"/>
+		<model id="39" name="速腾"/>
+		<model id="40" name="速腾-GLI"/>
+		<model id="41" name="高尔"/>
+		<model id="42" name="高尔夫4"/>
+		<model id="43" name="高尔夫6"/>
+		<model id="44" name="高尔夫7"/>
+		<model id="45" name="高尔夫7-R-Line"/>
+		<model id="46" name="高尔夫GTI"/>
+		<model id="47" name="高尔夫[进口]"/>
+		<model id="48" name="高尔夫嘉旅"/>
+		<model id="49" name="凌渡-GTS"/>
+		<model id="50" name="高尔夫-嘉旅"/>
+	</maker>
+	<maker id="118" name="大宇">
+		<model id="1" name="Lanos[进口]"/>
+		<model id="2" name="Leganza[进口]"/>
+		<model id="3" name="Matiz[进口]"/>
+	</maker>
+	<maker id="119" name="大通">
+		<model id="1" name="V80"/>
+	</maker>
+	<maker id="14" name="奇瑞">
+		<model id="1" name="A1"/>
+		<model id="2" name="A3"/>
+		<model id="3" name="A5"/>
+		<model id="4" name="E3"/>
+		<model id="5" name="E5"/>
+		<model id="6" name="QQ"/>
+		<model id="7" name="QQ3"/>
+		<model id="8" name="QQ6"/>
+		<model id="9" name="eQ1"/>
+		<model id="10" name="东方之子"/>
+		<model id="11" name="东方之子Cross"/>
+		<model id="12" name="威麟V5"/>
+		<model id="13" name="威麟X5"/>
+		<model id="14" name="旗云"/>
+		<model id="15" name="旗云1"/>
+		<model id="16" name="旗云2"/>
+		<model id="17" name="旗云3"/>
+		<model id="18" name="瑞虎"/>
+		<model id="19" name="瑞虎3"/>
+		<model id="20" name="瑞虎3x"/>
+		<model id="21" name="瑞虎5"/>
+		<model id="22" name="瑞虎5x"/>
+		<model id="23" name="瑞虎7"/>
+		<model id="24" name="瑞麒M1"/>
+		<model id="25" name="艾瑞泽3"/>
+		<model id="26" name="艾瑞泽5"/>
+		<model id="27" name="艾瑞泽5e"/>
+		<model id="28" name="艾瑞泽7"/>
+		<model id="29" name="风云"/>
+		<model id="30" name="风云2"/>
+		<model id="31" name="风云2掀背"/>
+		<model id="32" name="A3-三厢"/>
+		<model id="33" name="风云2-掀背"/>
+		<model id="34" name="A3-两厢"/>
+	</maker>
+	<maker id="120" name="奔腾">
+		<model id="1" name="B50"/>
+		<model id="2" name="B70"/>
+		<model id="3" name="B90"/>
+		<model id="4" name="X80"/>
+	</maker>
+	<maker id="24" name="奔驰">
+		<model id="1" name="A级[进口]"/>
+		<model id="2" name="B级[进口]"/>
+		<model id="3" name="CLA级[进口]200"/>
+		<model id="4" name="CLA级[进口]220"/>
+		<model id="5" name="CLS[进口]300"/>
+		<model id="6" name="C级-时尚"/>
+		<model id="7" name="C级-经典"/>
+		<model id="8" name="C级-运动"/>
+		<model id="9" name="E级经典"/>
+		<model id="10" name="E级运动"/>
+		<model id="11" name="G500"/>
+		<model id="12" name="GLA级"/>
+		<model id="13" name="GLC级"/>
+		<model id="14" name="GLC级[进口]"/>
+		<model id="15" name="GLE"/>
+		<model id="16" name="GLE-AMG[进口]"/>
+		<model id="17" name="GLK级"/>
+		<model id="18" name="GL级"/>
+		<model id="19" name="GL级500"/>
+		<model id="20" name="MB100"/>
+		<model id="21" name="M级"/>
+		<model id="22" name="R级"/>
+		<model id="23" name="SLK200级"/>
+		<model id="24" name="SLK级"/>
+		<model id="25" name="S级"/>
+		<model id="26" name="唯雅诺"/>
+		<model id="27" name="威霆"/>
+		<model id="28" name="迈巴赫S级[进口]"/>
+		<model id="29" name="E级-运动"/>
+		<model id="30" name="CLA级[进口]"/>
+		<model id="31" name="GL级-500"/>
+		<model id="32" name="E级-经典"/>
+	</maker>
+	<maker id="11" name="奥迪">
+		<model id="1" name="A3"/>
+		<model id="2" name="A3-Limousine"/>
+		<model id="3" name="A3-SportBack"/>
+		<model id="4" name="A4"/>
+		<model id="5" name="A4L"/>
+		<model id="6" name="A5"/>
+		<model id="7" name="A6"/>
+		<model id="8" name="A6L"/>
+		<model id="9" name="A6L技术型"/>
+		<model id="10" name="A6L豪华型"/>
+		<model id="11" name="A7"/>
+		<model id="12" name="A8"/>
+		<model id="13" name="A8L"/>
+		<model id="14" name="Q3"/>
+		<model id="15" name="Q5"/>
+		<model id="16" name="Q7"/>
+		<model id="17" name="S8"/>
+	</maker>
+	<maker id="46" name="威旺">
+		<model id="1" name="205"/>
+		<model id="2" name="306"/>
+		<model id="3" name="M20"/>
+		<model id="4" name="M30"/>
+		<model id="5" name="S50"/>
+	</maker>
+	<maker id="86" name="宇通">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+		<model id="3" name="C款"/>
+		<model id="4" name="D款"/>
+		<model id="5" name="E款"/>
+		<model id="6" name="F款"/>
+		<model id="7" name="G款"/>
+		<model id="8" name="H款"/>
+		<model id="9" name="I款"/>
+		<model id="10" name="J款-校车"/>
+		<model id="11" name="K款"/>
+		<model id="12" name="L款"/>
+		<model id="13" name="M款"/>
+		<model id="14" name="N款"/>
+		<model id="15" name="客车B款"/>
+		<model id="16" name="客车C款"/>
+		<model id="17" name="公交车A款"/>
+	</maker>
+	<maker id="42" name="安凯">
+		<model id="1" name="公路客车"/>
+		<model id="2" name="旅游客车"/>
+		<model id="3" name="星凯龙"/>
+	</maker>
+	<maker id="121" name="宝沃">
+		<model id="1" name="BX7"/>
+	</maker>
+	<maker id="28" name="宝马">
+		<model id="1" name="1系"/>
+		<model id="2" name="1系[进口]"/>
+		<model id="3" name="3系"/>
+		<model id="4" name="3系-GT[进口]"/>
+		<model id="5" name="3系[进口]"/>
+		<model id="6" name="5系"/>
+		<model id="7" name="5系-528I"/>
+		<model id="8" name="5系-528Li"/>
+		<model id="9" name="7系-xDrive[进口]"/>
+		<model id="10" name="7系[进口]"/>
+		<model id="11" name="X1"/>
+		<model id="12" name="X3"/>
+		<model id="13" name="X4"/>
+		<model id="14" name="X5"/>
+		<model id="15" name="X6"/>
+		<model id="16" name="Z4"/>
+	</maker>
+	<maker id="23" name="宝骏">
+		<model id="1" name="310"/>
+		<model id="2" name="560"/>
+		<model id="3" name="630"/>
+		<model id="4" name="730"/>
+	</maker>
+	<maker id="122" name="宾利">
+		<model id="1" name="欧陆"/>
+	</maker>
+	<maker id="123" name="广汽吉奥">
+		<model id="1" name="GS50"/>
+		<model id="2" name="星旺"/>
+		<model id="3" name="星旺CL"/>
+		<model id="4" name="财运100"/>
+	</maker>
+	<maker id="124" name="广汽日野">
+		<model id="1" name="A款"/>
+	</maker>
+	<maker id="125" name="开瑞">
+		<model id="1" name="优优"/>
+		<model id="2" name="优劲"/>
+		<model id="3" name="优胜"/>
+		<model id="4" name="优雅"/>
+	</maker>
+	<maker id="151" name="恒天">
+		<model id="1" name="运输车"/>
+	</maker>
+	<maker id="126" name="悍马">
+		<model id="1" name="悍马H3"/>
+	</maker>
+	<maker id="90" name="扬子江">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+	</maker>
+	<maker id="59" name="捷豹">
+		<model id="1" name="F-PACE[进口]"/>
+		<model id="2" name="S-Type[进口]"/>
+		<model id="3" name="XE-XF-XL[进口]"/>
+		<model id="4" name="XF[进口]"/>
+		<model id="5" name="XJ[进口]"/>
+	</maker>
+	<maker id="127" name="斯威">
+		<model id="1" name="X7"/>
+	</maker>
+	<maker id="79" name="斯巴鲁">
+		<model id="1" name="XV[进口]"/>
+		<model id="2" name="傲虎[进口]"/>
+		<model id="3" name="森林人[进口]"/>
+		<model id="4" name="翼豹[进口]"/>
+		<model id="5" name="驰鹏"/>
+	</maker>
+	<maker id="33" name="斯柯达">
+		<model id="1" name="Yeti"/>
+		<model id="2" name="昊锐"/>
+		<model id="3" name="明锐"/>
+		<model id="4" name="昕动昕锐"/>
+		<model id="5" name="晶锐"/>
+		<model id="6" name="速派"/>
+	</maker>
+	<maker id="18" name="日产">
+		<model id="1" name="D22"/>
+		<model id="2" name="D22厢式"/>
+		<model id="3" name="D22皮卡"/>
+		<model id="4" name="NV200"/>
+		<model id="5" name="丽威劲锐"/>
+		<model id="6" name="天籁"/>
+		<model id="7" name="天籁公爵"/>
+		<model id="8" name="奇骏"/>
+		<model id="9" name="帕拉丁"/>
+		<model id="10" name="帕拉骐"/>
+		<model id="11" name="日产D22"/>
+		<model id="12" name="楼兰"/>
+		<model id="13" name="玛驰"/>
+		<model id="14" name="蓝鸟"/>
+		<model id="15" name="蓝鸟智尊"/>
+		<model id="16" name="贵士[进口]"/>
+		<model id="17" name="轩逸"/>
+		<model id="18" name="逍客"/>
+		<model id="19" name="途乐[进口]"/>
+		<model id="20" name="阳光"/>
+		<model id="21" name="颐达"/>
+		<model id="22" name="风度[进口]"/>
+		<model id="23" name="骊威"/>
+		<model id="24" name="骏逸"/>
+		<model id="25" name="骐达"/>
+		<model id="26" name="骐达-颐达"/>
+		<model id="27" name="天籁-公爵"/>
+	</maker>
+	<maker id="95" name="时代">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+	</maker>
+	<maker id="128" name="时风">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+	</maker>
+	<maker id="48" name="昌河">
+		<model id="1" name="M50"/>
+		<model id="2" name="福瑞达"/>
+	</maker>
+	<maker id="2" name="本田">
+		<model id="1" name="CR-V"/>
+		<model id="2" name="UR-V"/>
+		<model id="3" name="XR-V"/>
+		<model id="4" name="冠道"/>
+		<model id="5" name="凌派"/>
+		<model id="6" name="哥瑞"/>
+		<model id="7" name="奥德赛"/>
+		<model id="8" name="思域"/>
+		<model id="9" name="思域-尊耀版"/>
+		<model id="10" name="思域[进口]"/>
+		<model id="11" name="思迪"/>
+		<model id="12" name="思铂睿"/>
+		<model id="13" name="杰德"/>
+		<model id="14" name="歌诗图"/>
+		<model id="15" name="竞瑞"/>
+		<model id="16" name="缤智"/>
+		<model id="17" name="艾力绅"/>
+		<model id="18" name="锋范"/>
+		<model id="19" name="雅阁"/>
+		<model id="20" name="雅阁-混动"/>
+		<model id="21" name="飞度"/>
+		<model id="22" name="飞度-三厢"/>
+		<model id="23" name="飞度-豪华"/>
+		<model id="24" name="飞度舒适"/>
+		<model id="25" name="飞度-舒适"/>
+	</maker>
+	<maker id="69" name="林肯">
+		<model id="1" name="MKC[进口]"/>
+		<model id="2" name="MKZ[进口]"/>
+		<model id="3" name="林肯MKT"/>
+	</maker>
+	<maker id="30" name="标致">
+		<model id="1" name="2008"/>
+		<model id="2" name="206"/>
+		<model id="3" name="207"/>
+		<model id="4" name="3008"/>
+		<model id="5" name="301"/>
+		<model id="6" name="307"/>
+		<model id="7" name="308"/>
+		<model id="8" name="308S"/>
+		<model id="9" name="4008"/>
+		<model id="10" name="406"/>
+		<model id="11" name="408"/>
+		<model id="12" name="508"/>
+	</maker>
+	<maker id="129" name="欧宝">
+		<model id="1" name="安德拉[进口]"/>
+		<model id="2" name="雅特"/>
+	</maker>
+	<maker id="20" name="比亚迪">
+		<model id="1" name="F0"/>
+		<model id="2" name="F3"/>
+		<model id="3" name="F6"/>
+		<model id="4" name="G3"/>
+		<model id="5" name="G5"/>
+		<model id="6" name="G6"/>
+		<model id="7" name="L3"/>
+		<model id="8" name="M6"/>
+		<model id="9" name="S6"/>
+		<model id="10" name="S7"/>
+		<model id="11" name="e5"/>
+		<model id="12" name="唐"/>
+		<model id="13" name="宋"/>
+		<model id="14" name="宋MAX"/>
+		<model id="15" name="思锐"/>
+		<model id="16" name="秦"/>
+		<model id="17" name="速锐"/>
+		<model id="18" name="客车A款"/>
+	</maker>
+	<maker id="130" name="比速">
+		<model id="1" name="M3"/>
+	</maker>
+	<maker id="131" name="永源">
+		<model id="1" name="A380"/>
+	</maker>
+	<maker id="58" name="汇众">
+		<model id="1" name="伊斯坦纳"/>
+	</maker>
+	<maker id="64" name="江淮">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+		<model id="3" name="iEV5"/>
+		<model id="4" name="iEV6E"/>
+		<model id="5" name="iEV7"/>
+		<model id="6" name="合客"/>
+		<model id="7" name="同悦"/>
+		<model id="8" name="和悦"/>
+		<model id="9" name="和悦A30"/>
+		<model id="10" name="和悦RS"/>
+		<model id="11" name="大好运"/>
+		<model id="12" name="好运"/>
+		<model id="13" name="宾悦"/>
+		<model id="14" name="帅铃"/>
+		<model id="15" name="帅铃T6"/>
+		<model id="16" name="帅铃骏铃"/>
+		<model id="17" name="康铃"/>
+		<model id="18" name="星锐"/>
+		<model id="19" name="格尔发"/>
+		<model id="20" name="格尔发H系列"/>
+		<model id="21" name="格尔发重卡"/>
+		<model id="22" name="瑞风"/>
+		<model id="23" name="瑞风-穿梭系列"/>
+		<model id="24" name="瑞风M3"/>
+		<model id="25" name="瑞风M5"/>
+		<model id="26" name="瑞风S2"/>
+		<model id="27" name="瑞风S3"/>
+		<model id="28" name="瑞风S5"/>
+		<model id="29" name="瑞鹰"/>
+		<model id="30" name="翼开启厢式运输车"/>
+	</maker>
+	<maker id="65" name="江铃">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+		<model id="3" name="C款"/>
+		<model id="4" name="E200"/>
+		<model id="5" name="凯运"/>
+		<model id="6" name="域虎"/>
+		<model id="7" name="宝典"/>
+		<model id="8" name="驭胜"/>
+		<model id="9" name="驭胜S330"/>
+		<model id="10" name="驭胜S350"/>
+		<model id="11" name="骐铃T5"/>
+		<model id="12" name="骐铃T7"/>
+	</maker>
+	<maker id="81" name="沃尔沃">
+		<model id="1" name="C30[进口]"/>
+		<model id="2" name="S40[进口]"/>
+		<model id="3" name="S60[进口]"/>
+		<model id="4" name="S80L"/>
+		<model id="5" name="V40[进口]"/>
+		<model id="6" name="XC60"/>
+		<model id="7" name="XC90"/>
+	</maker>
+	<maker id="53" name="海格">
+		<model id="1" name="罗卡E10"/>
+		<model id="2" name="客车B款"/>
+		<model id="3" name="公交车A款"/>
+	</maker>
+	<maker id="31" name="海马">
+		<model id="1" name="323"/>
+		<model id="2" name="M3"/>
+		<model id="3" name="M8"/>
+		<model id="4" name="S5"/>
+		<model id="5" name="S7"/>
+		<model id="6" name="V70"/>
+		<model id="7" name="丘比特"/>
+		<model id="8" name="普力马"/>
+		<model id="9" name="海福星"/>
+		<model id="10" name="海福星福美来一代"/>
+		<model id="11" name="海马3"/>
+		<model id="12" name="福仕达荣达"/>
+		<model id="13" name="福仕达鸿达"/>
+		<model id="14" name="福美来"/>
+		<model id="15" name="福美来二代"/>
+		<model id="16" name="骑士"/>
+	</maker>
+	<maker id="152" name="特斯拉">
+		<model id="1" name="Model-S"/>
+	</maker>
+	<maker id="73" name="猎豹">
+		<model id="1" name="CS10"/>
+		<model id="2" name="CS9"/>
+		<model id="3" name="Q6"/>
+		<model id="4" name="猎豹CS6"/>
+		<model id="5" name="飞腾"/>
+		<model id="6" name="黑金刚"/>
+	</maker>
+	<maker id="75" name="玛莎拉蒂">
+		<model id="1" name="Ghibli[进口]"/>
+		<model id="2" name="Levante[进口]"/>
+		<model id="3" name="总裁[进口]"/>
+	</maker>
+	<maker id="12" name="现代">
+		<model id="1" name="A款"/>
+		<model id="2" name="i30"/>
+		<model id="3" name="ix25"/>
+		<model id="4" name="ix35"/>
+		<model id="5" name="伊兰特"/>
+		<model id="6" name="劳恩斯[进口]"/>
+		<model id="7" name="劳恩斯酷派[进口]"/>
+		<model id="8" name="名图"/>
+		<model id="9" name="名驭"/>
+		<model id="10" name="御翔"/>
+		<model id="11" name="悦动"/>
+		<model id="12" name="悦纳"/>
+		<model id="13" name="新胜达"/>
+		<model id="14" name="新胜达[进口]"/>
+		<model id="15" name="朗动"/>
+		<model id="16" name="格锐[进口]"/>
+		<model id="17" name="瑞纳"/>
+		<model id="18" name="第九代索纳塔"/>
+		<model id="19" name="第八代索纳塔"/>
+		<model id="20" name="索纳塔"/>
+		<model id="21" name="维拉克斯"/>
+		<model id="22" name="美佳[进口]"/>
+		<model id="23" name="途胜"/>
+		<model id="24" name="酷派[进口]"/>
+		<model id="25" name="雅绅特"/>
+		<model id="26" name="领动"/>
+		<model id="27" name="领翔"/>
+		<model id="28" name="飞思[进口]"/>
+		<model id="29" name="瑞奕"/>
+	</maker>
+	<maker id="72" name="理念">
+		<model id="1" name="S1"/>
+	</maker>
+	<maker id="89" name="申沃">
+		<model id="1" name="A款"/>
+	</maker>
+	<maker id="153" name="申龙">
+		<model id="1" name="A款"/>
+	</maker>
+	<maker id="21" name="福特">
+		<model id="1" name="嘉年华"/>
+		<model id="2" name="探险者[进口]"/>
+		<model id="3" name="新全顺"/>
+		<model id="4" name="福克斯"/>
+		<model id="5" name="福克斯经典"/>
+		<model id="6" name="经典全顺"/>
+		<model id="7" name="翼搏"/>
+		<model id="8" name="翼虎"/>
+		<model id="9" name="翼虎[进口]"/>
+		<model id="10" name="蒙迪欧"/>
+		<model id="11" name="蒙迪欧致胜"/>
+		<model id="12" name="途睿欧"/>
+		<model id="13" name="野马"/>
+		<model id="14" name="金牛座"/>
+		<model id="15" name="锐界"/>
+		<model id="16" name="锐界[进口]"/>
+		<model id="17" name="麦柯斯"/>
+		<model id="18" name="探险[进口]"/>
+		<model id="19" name="福睿斯"/>
+	</maker>
+	<maker id="51" name="福田">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+		<model id="3" name="C款"/>
+		<model id="4" name="D款"/>
+		<model id="5" name="厢式运输"/>
+		<model id="6" name="欧马可"/>
+		<model id="7" name="奥铃"/>
+		<model id="8" name="奥铃NPR"/>
+		<model id="9" name="奥铃T3"/>
+		<model id="10" name="奥铃TX"/>
+		<model id="11" name="时代"/>
+		<model id="12" name="时代-A款"/>
+		<model id="13" name="时代-B款"/>
+		<model id="14" name="时代-C款"/>
+		<model id="15" name="时代-D款"/>
+		<model id="16" name="时代-E款"/>
+		<model id="17" name="时代-F款"/>
+		<model id="18" name="时代-G款"/>
+		<model id="19" name="时代-H款"/>
+		<model id="20" name="时代-I款"/>
+		<model id="21" name="时代-J款"/>
+		<model id="22" name="时代H2"/>
+		<model id="23" name="时代K1"/>
+		<model id="24" name="时代领航"/>
+		<model id="25" name="时代驭菱"/>
+		<model id="26" name="时代驭菱轻卡"/>
+		<model id="27" name="欧曼"/>
+		<model id="28" name="欧曼ETX5系重卡"/>
+		<model id="29" name="欧曼ETX9系"/>
+		<model id="30" name="欧曼GTL"/>
+		<model id="31" name="萨普T"/>
+		<model id="32" name="萨普四驱征服者"/>
+		<model id="33" name="萨普开拓者"/>
+		<model id="34" name="蒙派克E"/>
+		<model id="35" name="迷迪"/>
+		<model id="36" name="风景"/>
+		<model id="37" name="风景长轴版"/>
+	</maker>
+	<maker id="132" name="福迪">
+		<model id="1" name="揽福"/>
+		<model id="2" name="雄师F22"/>
+	</maker>
+	<maker id="133" name="红岩">
+		<model id="1" name="A款"/>
+		<model id="2" name="狮重卡"/>
+	</maker>
+	<maker id="56" name="红旗">
+		<model id="1" name="H7"/>
+		<model id="2" name="世纪星"/>
+		<model id="3" name="名仕"/>
+	</maker>
+	<maker id="91" name="纳智捷">
+		<model id="1" name="优6-SUV"/>
+		<model id="2" name="大7-SUV"/>
+		<model id="3" name="纳5"/>
+	</maker>
+	<maker id="83" name="英菲尼迪">
+		<model id="1" name="EX[进口]"/>
+		<model id="2" name="FX"/>
+		<model id="3" name="G系"/>
+		<model id="4" name="Q50"/>
+		<model id="5" name="Q70L[进口]"/>
+		<model id="6" name="QX50"/>
+		<model id="7" name="QX50[进口]"/>
+		<model id="8" name="QX60-JX[进口]"/>
+		<model id="9" name="QX70[进口]"/>
+		<model id="10" name="QX[进口]"/>
+		<model id="11" name="Q50[进口]"/>
+		<model id="12" name="JX[进口]"/>
+		<model id="13" name="Q50L"/>
+	</maker>
+	<maker id="38" name="荣威">
+		<model id="1" name="350"/>
+		<model id="2" name="360"/>
+		<model id="3" name="550"/>
+		<model id="4" name="750"/>
+		<model id="5" name="750D"/>
+		<model id="6" name="950"/>
+		<model id="7" name="RX5"/>
+		<model id="8" name="W5"/>
+		<model id="9" name="i6"/>
+	</maker>
+	<maker id="134" name="莲花">
+		<model id="1" name="L3-三厢"/>
+		<model id="2" name="L3-两厢"/>
+		<model id="3" name="L5"/>
+		<model id="4" name="竞速"/>
+	</maker>
+	<maker id="50" name="菲亚特">
+		<model id="1" name="派力奥"/>
+		<model id="2" name="致悦"/>
+		<model id="3" name="菲翔"/>
+		<model id="4" name="菲跃"/>
+		<model id="5" name="西耶那"/>
+	</maker>
+	<maker id="135" name="西雅特">
+		<model id="1" name="Leon[进口]"/>
+	</maker>
+	<maker id="52" name="观致">
+		<model id="1" name="观致5"/>
+	</maker>
+	<maker id="136" name="解放">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+		<model id="3" name="C款"/>
+		<model id="4" name="D款"/>
+		<model id="5" name="E款"/>
+		<model id="6" name="F款"/>
+		<model id="7" name="J4-A款"/>
+		<model id="8" name="J4-B款"/>
+		<model id="9" name="J6"/>
+		<model id="10" name="大威重卡"/>
+		<model id="11" name="奥威J5P重卡"/>
+		<model id="12" name="悍威J5M重卡"/>
+		<model id="13" name="新大威重卡"/>
+		<model id="14" name="赛龙"/>
+		<model id="15" name="骏威J5K"/>
+	</maker>
+	<maker id="76" name="讴歌">
+		<model id="1" name="CDX"/>
+		<model id="2" name="MDX"/>
+	</maker>
+	<maker id="9" name="起亚">
+		<model id="1" name="K2"/>
+		<model id="2" name="K3"/>
+		<model id="3" name="K4"/>
+		<model id="4" name="K5"/>
+		<model id="5" name="KX-CROSS"/>
+		<model id="6" name="KX3"/>
+		<model id="7" name="佳乐"/>
+		<model id="8" name="凯尊"/>
+		<model id="9" name="千里马"/>
+		<model id="10" name="普莱特-三厢"/>
+		<model id="11" name="智跑"/>
+		<model id="12" name="欧菲莱斯"/>
+		<model id="13" name="狮跑"/>
+		<model id="14" name="狮跑[进口]"/>
+		<model id="15" name="福瑞迪"/>
+		<model id="16" name="秀尔"/>
+		<model id="17" name="索兰托"/>
+		<model id="18" name="赛拉图"/>
+		<model id="19" name="远舰"/>
+		<model id="20" name="锐欧"/>
+		<model id="21" name="霸锐"/>
+		<model id="22" name="嘉华"/>
+	</maker>
+	<maker id="84" name="跃进">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+		<model id="3" name="仓棚式"/>
+		<model id="4" name="厢式"/>
+		<model id="5" name="厢式运输"/>
+		<model id="6" name="小福星"/>
+		<model id="7" name="欧卡W3308"/>
+	</maker>
+	<maker id="137" name="路虎">
+		<model id="1" name="发现"/>
+		<model id="2" name="发现神行"/>
+		<model id="3" name="揽胜"/>
+		<model id="4" name="揽胜极光"/>
+		<model id="5" name="揽胜运动"/>
+		<model id="6" name="神行者"/>
+	</maker>
+	<maker id="138" name="轻骑">
+		<model id="1" name="A款"/>
+	</maker>
+	<maker id="49" name="道奇">
+		<model id="1" name="酷威[进口]"/>
+	</maker>
+	<maker id="139" name="野马">
+		<model id="1" name="T70"/>
+	</maker>
+	<maker id="63" name="金旅">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+		<model id="3" name="C款"/>
+		<model id="4" name="D款"/>
+		<model id="5" name="E款"/>
+		<model id="6" name="F款"/>
+		<model id="7" name="G款"/>
+		<model id="8" name="H款"/>
+		<model id="9" name="I款-校车"/>
+		<model id="10" name="J款"/>
+		<model id="11" name="金旅海狮"/>
+		<model id="12" name="客车A款"/>
+	</maker>
+	<maker id="36" name="金杯">
+		<model id="1" name="750"/>
+		<model id="2" name="大海狮"/>
+		<model id="3" name="核动力"/>
+		<model id="4" name="海星"/>
+		<model id="5" name="海狮"/>
+		<model id="6" name="金杯之星"/>
+		<model id="7" name="金运"/>
+		<model id="8" name="阁瑞斯"/>
+		<model id="9" name="领驰"/>
+		<model id="10" name="领骐"/>
+	</maker>
+	<maker id="88" name="金陵">
+		<model id="1" name="A款"/>
+	</maker>
+	<maker id="154" name="金马">
+		<model id="1" name="公交车A款"/>
+		<model id="2" name="公交车B款"/>
+	</maker>
+	<maker id="62" name="金龙">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+		<model id="3" name="C款"/>
+		<model id="4" name="D款"/>
+		<model id="5" name="E款"/>
+		<model id="6" name="F款"/>
+		<model id="7" name="G款"/>
+		<model id="8" name="H款"/>
+		<model id="9" name="I款"/>
+		<model id="10" name="J款"/>
+	</maker>
+	<maker id="7" name="铃木">
+		<model id="1" name="利亚纳"/>
+		<model id="2" name="北斗星"/>
+		<model id="3" name="北斗星-标准版"/>
+		<model id="4" name="北斗星X5"/>
+		<model id="5" name="吉姆尼"/>
+		<model id="6" name="启悦"/>
+		<model id="7" name="天语SX4"/>
+		<model id="8" name="奥拓"/>
+		<model id="9" name="浪迪"/>
+		<model id="10" name="维特拉"/>
+		<model id="11" name="羚羊"/>
+		<model id="12" name="超级维特拉"/>
+		<model id="13" name="锋驭"/>
+		<model id="14" name="雨燕"/>
+		<model id="15" name="北斗星标准版"/>
+		<model id="16" name="北斗星经济版"/>
+	</maker>
+	<maker id="19" name="长城">
+		<model id="1" name="C20R"/>
+		<model id="2" name="C30"/>
+		<model id="3" name="C30新能源"/>
+		<model id="4" name="C50"/>
+		<model id="5" name="M4"/>
+		<model id="6" name="V80"/>
+		<model id="7" name="凌傲"/>
+		<model id="8" name="炫丽"/>
+		<model id="9" name="炫丽-CROSS"/>
+		<model id="10" name="赛弗"/>
+		<model id="11" name="赛影"/>
+		<model id="12" name="酷熊"/>
+		<model id="13" name="金迪尔"/>
+		<model id="14" name="长城精灵"/>
+		<model id="15" name="风骏3"/>
+		<model id="16" name="风骏5"/>
+		<model id="17" name="风骏6"/>
+		<model id="18" name="哈弗H6"/>
+		<model id="19" name="哈弗H5-欧风版"/>
+		<model id="20" name="哈弗M2"/>
+		<model id="21" name="哈弗M4"/>
+		<model id="22" name="哈弗H5-至尊版"/>
+		<model id="23" name="哈弗H3-领先版"/>
+		<model id="24" name="哈弗H3-锐意版"/>
+	</maker>
+	<maker id="17" name="长安">
+		<model id="1" name="CS15"/>
+		<model id="2" name="CS35"/>
+		<model id="3" name="CS55"/>
+		<model id="4" name="CS75"/>
+		<model id="5" name="CX20"/>
+		<model id="6" name="CX30"/>
+		<model id="7" name="E3"/>
+		<model id="8" name="勋龙"/>
+		<model id="9" name="奔奔"/>
+		<model id="10" name="奔奔MINI"/>
+		<model id="11" name="悦翔"/>
+		<model id="12" name="悦翔V3"/>
+		<model id="13" name="悦翔V5"/>
+		<model id="14" name="悦翔V7"/>
+		<model id="15" name="星卡"/>
+		<model id="16" name="欧力威"/>
+		<model id="17" name="睿骋"/>
+		<model id="18" name="致尚XT"/>
+		<model id="19" name="逸动"/>
+		<model id="20" name="逸动XT"/>
+		<model id="21" name="长安之星S460"/>
+		<model id="22" name="长安星光"/>
+		<model id="23" name="长安星光4500"/>
+	</maker>
+	<maker id="140" name="长安商用">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+		<model id="3" name="CM8"/>
+		<model id="4" name="CX70"/>
+		<model id="5" name="C款"/>
+		<model id="6" name="D款"/>
+		<model id="7" name="欧力威"/>
+		<model id="8" name="欧尚"/>
+		<model id="9" name="欧诺"/>
+		<model id="10" name="金牛星长安之星7"/>
+		<model id="11" name="长安之星"/>
+		<model id="12" name="长安之星2"/>
+		<model id="13" name="长安之星9"/>
+		<model id="14" name="长安小卡"/>
+		<model id="15" name="长安星卡"/>
+	</maker>
+	<maker id="141" name="陆风">
+		<model id="1" name="X5"/>
+		<model id="2" name="X6"/>
+		<model id="3" name="X6龙腾版"/>
+		<model id="4" name="X7"/>
+		<model id="5" name="X8"/>
+	</maker>
+	<maker id="77" name="陕汽">
+		<model id="1" name="奥龙重卡"/>
+		<model id="2" name="德龙-F2000-A款"/>
+		<model id="3" name="德龙-F2000-B款"/>
+		<model id="4" name="德龙F3000重卡"/>
+		<model id="5" name="德龙新M3000"/>
+	</maker>
+	<maker id="22" name="雪佛兰">
+		<model id="1" name="乐风"/>
+		<model id="2" name="乐风RV"/>
+		<model id="3" name="乐驰"/>
+		<model id="4" name="乐骋"/>
+		<model id="5" name="创酷"/>
+		<model id="6" name="开拓者"/>
+		<model id="7" name="探界者"/>
+		<model id="8" name="景程"/>
+		<model id="9" name="爱唯欧"/>
+		<model id="10" name="科帕奇"/>
+		<model id="11" name="科帕奇[进口]"/>
+		<model id="12" name="科沃兹"/>
+		<model id="13" name="科鲁兹"/>
+		<model id="14" name="科鲁兹经典"/>
+		<model id="15" name="赛欧"/>
+		<model id="16" name="赛欧3"/>
+		<model id="17" name="迈锐宝"/>
+		<model id="18" name="迈锐宝XL"/>
+	</maker>
+	<maker id="8" name="雪铁龙">
+		<model id="1" name="C2"/>
+		<model id="2" name="C3-XR"/>
+		<model id="3" name="C4L"/>
+		<model id="4" name="C4世嘉"/>
+		<model id="5" name="C5"/>
+		<model id="6" name="世嘉"/>
+		<model id="7" name="凯旋"/>
+		<model id="8" name="富康"/>
+		<model id="9" name="毕加索"/>
+		<model id="10" name="爱丽舍"/>
+		<model id="11" name="萨拉毕加索"/>
+		<model id="12" name="赛纳"/>
+	</maker>
+	<maker id="26" name="雷克萨斯">
+		<model id="1" name="CT"/>
+		<model id="2" name="ES"/>
+		<model id="3" name="GS"/>
+		<model id="4" name="GX"/>
+		<model id="5" name="IS"/>
+		<model id="6" name="LX"/>
+		<model id="7" name="NX"/>
+		<model id="8" name="RX"/>
+	</maker>
+	<maker id="70" name="雷诺">
+		<model id="1" name="梅甘娜[进口]"/>
+		<model id="2" name="科雷傲"/>
+		<model id="3" name="科雷傲[进口]"/>
+		<model id="4" name="纬度"/>
+		<model id="5" name="风景"/>
+		<model id="6" name="风景[进口]"/>
+		<model id="7" name="风朗[进口]"/>
+	</maker>
+	<maker id="142" name="青年">
+		<model id="1" name="尼奥普兰"/>
+	</maker>
+	<maker id="143" name="领御">
+		<model id="1" name="A款"/>
+	</maker>
+	<maker id="144" name="风行">
+		<model id="1" name="CM7"/>
+		<model id="2" name="F600"/>
+		<model id="3" name="S500"/>
+		<model id="4" name="SX6"/>
+		<model id="5" name="景逸"/>
+		<model id="6" name="景逸S50"/>
+		<model id="7" name="景逸X3"/>
+		<model id="8" name="景逸X5"/>
+		<model id="9" name="景逸XV"/>
+		<model id="10" name="菱智"/>
+		<model id="11" name="景逸SUV"/>
+	</maker>
+	<maker id="145" name="风驰">
+		<model id="1" name="天马"/>
+	</maker>
+	<maker id="146" name="飞碟">
+		<model id="1" name="自卸汽车-A款"/>
+		<model id="2" name="自卸汽车-B款"/>
+	</maker>
+	<maker id="15" name="马自达">
+		<model id="1" name="CX-4"/>
+		<model id="2" name="CX-5"/>
+		<model id="3" name="CX-7"/>
+		<model id="4" name="睿翼"/>
+		<model id="5" name="阿特兹"/>
+		<model id="6" name="马自达2"/>
+		<model id="7" name="马自达3"/>
+		<model id="8" name="马自达3昂克赛拉"/>
+		<model id="9" name="马自达3星骋"/>
+		<model id="10" name="马自达3进口"/>
+		<model id="11" name="马自达5"/>
+		<model id="12" name="马自达6"/>
+		<model id="13" name="马自达8"/>
+	</maker>
+	<maker id="57" name="黄海">
+		<model id="1" name="A款"/>
+		<model id="2" name="B款"/>
+		<model id="3" name="N1"/>
+		<model id="4" name="N2"/>
+		<model id="5" name="傲骏"/>
+		<model id="6" name="大柴神"/>
+		<model id="7" name="挑战者SUV"/>
+		<model id="8" name="旗胜F1"/>
+		<model id="9" name="旗胜V3"/>
+		<model id="10" name="翱龙CUV"/>
+	</maker>
+
+</mmyr>

@@ -1,0 +1,84 @@
+#include <stdafx.h>
+#include "PLAYSDKM4_INTERFACE.h"
+using namespace PLAYSDK_INTERFACE;
+namespace PLAYSDK_INTERFACE
+{
+	static HINSTANCE hPLAYSDK = NULL;
+	IMPLEMENT_FUNCTION(TC_CreateSystem);
+	IMPLEMENT_FUNCTION(TC_DeleteSystem);
+	IMPLEMENT_FUNCTION(TC_RegisterNotifyPlayToEnd);
+	IMPLEMENT_FUNCTION(TC_CreatePlayerFromStream);
+	IMPLEMENT_FUNCTION(TC_CreatePlayerFromFile);
+	IMPLEMENT_FUNCTION(TC_DeletePlayer);
+	IMPLEMENT_FUNCTION(TC_SetPlayRect);
+	IMPLEMENT_FUNCTION(TC_SetPlayRectEx);
+	IMPLEMENT_FUNCTION(TC_PlayAudio);
+	IMPLEMENT_FUNCTION(TC_StopAudio);
+	IMPLEMENT_FUNCTION(TC_Play);
+	IMPLEMENT_FUNCTION(TC_Stop);
+	IMPLEMENT_FUNCTION(TC_GetPlayingFrameNum);
+	IMPLEMENT_FUNCTION(TC_FastForward);
+	IMPLEMENT_FUNCTION(TC_GetFrameCount);
+	IMPLEMENT_FUNCTION(TC_GetVersion);
+	IMPLEMENT_FUNCTION(TC_SeekEx);
+	IMPLEMENT_FUNCTION(TC_RegisterEventMsg);
+	IMPLEMENT_FUNCTION(TC_RegisterCommonEventCallBackEx);
+	IMPLEMENT_FUNCTION(TC_SetVideoDecryptKey);
+	IMPLEMENT_FUNCTION(TC_PutStreamToPlayer);
+	IMPLEMENT_FUNCTION(TC_GetStreamPlayBufferState);
+	IMPLEMENT_FUNCTION(TC_CreatePlayerFromVoD);
+	IMPLEMENT_FUNCTION(TC_CleanStreamBuffer);
+	IMPLEMENT_FUNCTION(TC_GetUserDataInfo);
+	IMPLEMENT_FUNCTION(TC_SetVoDPlayerOver);
+	IMPLEMENT_FUNCTION(TC_SetModeRule);	
+	int LoadPLAYSDK(const char* _pszPath)
+	{
+		if (hPLAYSDK)
+			return	DLL_RELOAD;
+		else
+		{
+			hPLAYSDK=::LoadLibrary(_pszPath);
+			if (!hPLAYSDK)
+				return	DLL_NOT_FOUND;
+		}
+		EXPORT_FUNCTION(hPLAYSDK, TC_CreateSystem);
+		EXPORT_FUNCTION(hPLAYSDK, TC_DeleteSystem);
+		EXPORT_FUNCTION(hPLAYSDK, TC_RegisterNotifyPlayToEnd);
+		EXPORT_FUNCTION(hPLAYSDK, TC_CreatePlayerFromStream);
+		EXPORT_FUNCTION(hPLAYSDK, TC_CreatePlayerFromFile);
+		EXPORT_FUNCTION(hPLAYSDK, TC_DeletePlayer);
+		EXPORT_FUNCTION(hPLAYSDK, TC_SetPlayRect);
+		EXPORT_FUNCTION(hPLAYSDK, TC_SetPlayRectEx);
+		EXPORT_FUNCTION(hPLAYSDK, TC_PlayAudio);
+		EXPORT_FUNCTION(hPLAYSDK, TC_StopAudio);
+		EXPORT_FUNCTION(hPLAYSDK, TC_Play);
+		EXPORT_FUNCTION(hPLAYSDK, TC_Stop);
+		EXPORT_FUNCTION(hPLAYSDK, TC_GetPlayingFrameNum);
+		EXPORT_FUNCTION(hPLAYSDK, TC_FastForward);
+		EXPORT_FUNCTION(hPLAYSDK, TC_GetFrameCount);
+		EXPORT_FUNCTION(hPLAYSDK, TC_GetVersion);
+		EXPORT_FUNCTION(hPLAYSDK, TC_SeekEx);
+		EXPORT_FUNCTION(hPLAYSDK, TC_RegisterEventMsg);
+		EXPORT_FUNCTION(hPLAYSDK, TC_RegisterCommonEventCallBackEx);
+		EXPORT_FUNCTION(hPLAYSDK, TC_SetVideoDecryptKey);
+		EXPORT_FUNCTION(hPLAYSDK, TC_PutStreamToPlayer);
+		EXPORT_FUNCTION(hPLAYSDK, TC_GetStreamPlayBufferState);
+		EXPORT_FUNCTION(hPLAYSDK, TC_CreatePlayerFromVoD);
+		EXPORT_FUNCTION(hPLAYSDK, TC_CleanStreamBuffer);
+		EXPORT_FUNCTION(hPLAYSDK, TC_GetUserDataInfo);
+		EXPORT_FUNCTION(hPLAYSDK, TC_SetVoDPlayerOver);
+		EXPORT_FUNCTION(hPLAYSDK, TC_SetModeRule);	
+		TC_CreateSystem(NULL);
+		return DLL_LOAD_SUCCESS;
+	}
+	bool ReleasePLAYSDK()
+	{
+		if (hPLAYSDK)
+		{
+			::FreeLibrary(hPLAYSDK);
+			hPLAYSDK = NULL;
+		}
+
+		return true;
+	}
+}
